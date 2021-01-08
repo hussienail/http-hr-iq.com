@@ -1,6 +1,6 @@
 if(location.protocol!='https:'){location.protocol='https:';} 
 $(`<img style="margin-left: -1px;width:101%; margin-top: 0px;pointer-events:none;margin-bottom: 0px;" src="sico/1.jpg1610119604600.jpg
-"> <a id="jfa44" target="_blank" type="a" rel="nofollow" href="https://iraqsmusic.com/" class="label-primary">Omar AL-Haded</a><center>
+"> <a id="jfa44" target="_blank" type="a" rel="nofollow" href="https://iraqsmusic.com/" class="label-primary">موبايل هوست</a><center>
 
 <a id="asim99" href=""><i class="fa fa-refresh fa-spin fa-3x fa-fw" aria-hidden="true"></i></a>
 <a id="asim10" target="_blank" type="a" href="" style="border-radius: 0 0 10% 0; border-right: 2px solid#a6a6a6; border-top: 1px solid#f5f8fa" class="btn minix btn-primary">اتصل بنا</a><a id="asim10" target="_blank" type="a" href="" style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">التطبيق</a><a id="asim10" target="_blank" type="a" href="" style="border-radius: 0%; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">الاشتراكات</a><a id="asim10" target="_blank" type="a" href="" style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">اختصارات</a><a id="asim10" target="_blank" type="a" href="" style="border-radius: 0 0 0 10%; border-left: 2px solid#a6a6a6; border-right: 1px solid#f5f8fa; border-top: 1px solid#f5f8fa;" class="btn minix btn-primary">القوانين</a>`).insertBefore('.nav-tabs');
